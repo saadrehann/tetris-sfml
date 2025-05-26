@@ -1,0 +1,27 @@
+
+			[	TETRIS  BY 	]
+(BESE-29A)
+-Husnain Fraz
+-Syed Mohammad Saad
+-Muhammad Alyan Shahid
+-Muhammad Ahmad Zaheer
+
+---------------------------------------------------
+
+			[	GAME	   ]
+Go to x64
+Go to release
+click on tetris
+
+			[	SOURCE CODE	]
+Go to Tetris
+All source code in folder
+
+			[	COMPILE IN VS	]
+open .sln file
+make sure everything is properly setup if not follow sfml setup tutorial
+on website fo VS
+compile
+
+Note from author: 
+The option is for demonstration purpose and isn't functional.
